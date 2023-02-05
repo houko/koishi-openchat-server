@@ -71,15 +71,9 @@ pip install -r requirments.txt
 python chat.py
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ce8ecd1-1f08-4b49-b778-f7336035f613/Untitled.png)
-
-配置服务器
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b5835bb-3ffe-49ed-982f-8980d36766b6/Untitled.png)
 
 # 二、服务器自建server
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e0f97ef-9f9e-4fd4-818c-2009d4d77246/Untitled.png)
 
 ```python
 # 安装依赖
