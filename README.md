@@ -95,7 +95,7 @@ virtualenv .venv
 source .venv/bin/activate
 
 # 安装依赖
-pip3 install -r requirments.txt
+pip3 install -r requirements.txt
 
 vim chat.py
 # 修改第8行代码，把api_key换成自己的
